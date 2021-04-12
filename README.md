@@ -1,16 +1,14 @@
 # f_brew_crew
 
-A new Flutter application.
+FireBase Authentication SignIn / Register(different screen)
+<img width="505" alt="SignIn" src="https://user-images.githubusercontent.com/14312802/114404494-5ca24b00-9bc3-11eb-8492-8161a7246dc4.png">
 
-## Getting Started
+New User Home Screen
+<img width="505" alt="Home" src="https://user-images.githubusercontent.com/14312802/114404549-6a57d080-9bc3-11eb-9aa4-9c564b3f3f39.png">
 
-This project is a starting point for a Flutter application.
+Updating Deatails
+<img width="505" alt="Update Details" src="https://user-images.githubusercontent.com/14312802/114404594-73e13880-9bc3-11eb-9781-464ee049e7d5.png">
 
-A few resources to get you started if this is your first Flutter project:
+Data Updated across devices through FireStore
+<img width="505" alt="Updated Across Devices " src="https://user-images.githubusercontent.com/14312802/114404667-89eef900-9bc3-11eb-9da1-e3d47bd22d24.png">
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
